@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+.bsp/
+xtool/
+Resources/SupabaseConfig.plist
+*.mobileprovision
+*.p12

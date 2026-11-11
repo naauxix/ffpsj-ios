@@ -1,0 +1,10 @@
+version: 1
+bundleID: org.ffpsj.actas.ios
+product: FFPSJApp
+infoPath: FFPSJApp-Info.plist
+entitlementsPath: FFPSJApp.entitlements
+resources:
+  - Resources/SupabaseConfig.plist
+#extensions:
+#  - product: FFPSJLiveActivity
+#    infoPath: FFPSJLiveActivity-Info.plist
